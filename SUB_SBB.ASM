@@ -17,7 +17,7 @@ MAIN:
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	MOV BL,[NUM_1H8]	; NUM_1H8->BL 
 	MOV DL,[NUM_2H8]	; NUM_2H8->DL
-	SBB BL,DL		; NUM_1H8-NUM_2H8+CF	CF=1,AF=1
+	SBB BL,DL		; NUM_1H8-NUM_2H8-CF
 	MOV SUB_H8,BL		; Result Save As SUB_H8
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	INT 21H
