@@ -1,0 +1,10 @@
+;0930-1	
+.MODEL	SMALL
+.CODE
+BEGIN:	MOV DL,"F"	;MOVE F TO DL
+	MOV AH,02H	;Print Value
+	INT 21H		;Read Value
+	MOV AH,4CH	;Return 
+	INT 21H		;Read Value
+.STACK
+	END BEGIN	;EOF...
