@@ -8,9 +8,9 @@
 	ADD_H8	DB	?
 .CODE
 MAIN:
+	MOV AX,@DATA
+	MOV DS,AX
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-	MOV AX,@DATA		; DATA->AX
-	MOV DS,AX		; AX->DS
 	MOV BL,NUM_1L8		; NUM_1L8->BL
 	ADD BL,[NUM_2L8]	; NUM_1L+NUM_2L8	CF=1,AF=1
 	MOV [ADD_L8],BL		; Result Save As ADD_L8
