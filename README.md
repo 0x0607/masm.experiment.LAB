@@ -6,4 +6,5 @@
 5. [PUSH_POP.ASM](./PUSH_POP.ASM)             `堆棧練習`
 6. [ADD_ADC.ASM](./ADD_ADC.ASM)               `使用兩個DB達成進位加法 (ADD跟ADC差異性)`
 7. [SUB_SBB.ASM](./SUB_SBB.ASM)               `使用兩個DB達成借位減法 (SUB跟SBB差異性)`
-8. [ARRAY.ASM](./ARRAY.ASM)                   `調用並使用陣列`
+8. [MUL.ASM](./MUL.ASM)                       `使用乘法`
+9. [ARRAY.ASM](./ARRAY.ASM)                   `調用並使用陣列`
