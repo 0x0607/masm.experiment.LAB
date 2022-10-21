@@ -17,7 +17,7 @@ MAIN:
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	MOV BL,[NUM_1H8]	; NUM_1H8->BL 
 	MOV DL,[NUM_2H8]	; NUM_2H8->DL
-	ADC BL,DL		; NUM_1H8+NUM_2H8+CF	CF=1
+	ADC BL,DL		; NUM_1H8+NUM_2H8+C
 	MOV ADD_H8,BL		; Result Save As ADD_H8
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	INT 21H
