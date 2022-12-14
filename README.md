@@ -8,4 +8,6 @@
 7. [SUB_SBB.ASM](./SUB_SBB.ASM)               `使用兩個DB達成借位減法 (SUB跟SBB差異性)`
 8. [MUL.ASM](./MUL.ASM)                       `使用乘法`
 9. [ARRAY.ASM](./ARRAY.ASM)                   `調用並使用陣列`
-10. [DIV.ASM](./DIV.ASM)                    `使用除法`
+10. [DIV.ASM](./DIV.ASM)                      `使用除法`
+11. [lower2Upper.ASM](./lower2Upper.ASM)      `小寫轉大寫`
+12. [upper2Lower.ASM](./upper2Lower.ASM)      `大寫轉小寫`
