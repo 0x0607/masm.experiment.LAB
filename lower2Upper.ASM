@@ -1,0 +1,17 @@
+.MODEL	SMALL
+.DATA
+	TEXT DB	's'
+.CODE
+MAIN:
+	MOV 	AX,@DATA
+	MOV 	DS,AX
+	MOV 	DL,TEXT	; set char
+	MOV 	AH,02H	; print_char
+	INT 	21H
+	AND 	DL,5FH	; & 01011111B
+	MOV 	AH,02H	; print_char (DL)
+	INT 	21H
+	MOV 	AH,4CH
+	INT 	21H
+.STACK
+	END MAIN
