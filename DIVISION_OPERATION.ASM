@@ -5,10 +5,10 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 .MODEL	SMALL
 .DATA
-M1	DW 2345
-M2	DW 345
-Q_16	DW ?
-R_16	DW ?
+	M1	DW 2345
+	M2	DW 345
+	Q_16	DW ?
+	R_16	DW ?
 .CODE
 MAIN:
 	MOV AX,@DATA
