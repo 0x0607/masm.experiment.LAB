@@ -15,3 +15,4 @@
 14. [PRINT_ADDITION.ASM](./PRINT_ADDITION.ASM)        `挑戰 印出10-49間的整數相加結果`
 15. [DIVISION_OPERATION.ASM](./DIVISION_OPERATION.ASM)`挑戰 除法基礎運算 同DIV.ASM`
 16. [lower2UpperXOR.ASM](./lower2UpperXOR.ASM)        `小寫轉大寫 只不過改用XOR的方式`
+17. [2S_COMP_SUB.ASM](./2S_COMP_SUB.ASM)              `二補數做減法運算`
