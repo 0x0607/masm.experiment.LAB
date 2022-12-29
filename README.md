@@ -11,3 +11,4 @@
 10. [DIV.ASM](./DIV.ASM)                      `使用除法`
 11. [lower2Upper.ASM](./lower2Upper.ASM)      `小寫轉大寫`
 12. [upper2Lower.ASM](./upper2Lower.ASM)      `大寫轉小寫`
+13. [PRINT_INTEGER.ASM](./PRINT_INTEGER.ASM)  `挑戰 印出10-99間的整數`
