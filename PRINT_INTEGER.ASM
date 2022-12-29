@@ -20,7 +20,7 @@ MAIN:
 	DIV CL		; AX/10
 	ADD AL,30H	; quotient		30H = ASCII('0')
 	ADD AH,30H	; remainder		30H = ASCII('0')
-	MOV DX,AX	; DX=0x33,0x32 
+	MOV DX,AX	; DX=0x32,0x33 
 	MOV AH,02H	; print '3'
 	INT 21H
 	MOV DL,DH	; DH(remainder)->DL	
