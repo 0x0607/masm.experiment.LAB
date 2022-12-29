@@ -17,3 +17,4 @@
 16. [lower2UpperXOR.ASM](./lower2UpperXOR.ASM)        `小寫轉大寫 只不過改用XOR的方式`
 17. [2S_COMP_SUB.ASM](./2S_COMP_SUB.ASM)              `二補數做減法運算`
 18. [SHIFT_MULT.ASM](./SHIFT_MULT.ASM)                `左移位乘法`
+19. [CMP_JMP.ASM](./CMP_JMP.ASM)                      `有條件的跳躍指令`
