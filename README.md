@@ -22,3 +22,4 @@
 21. [SUMMATION.ASM](./SUMMATION.ASM)                  `挑戰 Sigma Σ N1+...+N2`
 22. [CMP_SIGNED_JMP.ASM](./CMP_SIGNED_JMP.ASM)        `有條件的跳躍指令 (帶符號比較)`
 23. [DO_WHILE_LOOP.ASM](./DO_WHILE_LOOP.ASM)          `MASM的迴圈`
+24. [STRING_lower2Upper.ASM](./STRING_lower2Upper.ASM)`字元陣列(字串)小寫轉大寫`
