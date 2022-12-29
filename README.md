@@ -18,3 +18,4 @@
 17. [2S_COMP_SUB.ASM](./2S_COMP_SUB.ASM)              `二補數做減法運算`
 18. [SHIFT_MULT.ASM](./SHIFT_MULT.ASM)                `左移位乘法`
 19. [CMP_JMP.ASM](./CMP_JMP.ASM)                      `有條件的跳躍指令`
+20. [SHIFT_MULT70.ASM](./SHIFT_MULT70.ASM)            `挑戰 左移位乘法 同SHIFT_MULT.ASM`
