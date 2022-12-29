@@ -19,3 +19,4 @@
 18. [SHIFT_MULT.ASM](./SHIFT_MULT.ASM)                `左移位乘法`
 19. [CMP_JMP.ASM](./CMP_JMP.ASM)                      `有條件的跳躍指令`
 20. [SHIFT_MULT70.ASM](./SHIFT_MULT70.ASM)            `挑戰 左移位乘法 同SHIFT_MULT.ASM`
+21. [SUMMATION.ASM](./SUMMATION.ASM)                  `挑戰 Sigma Σ N1+...+N2`
