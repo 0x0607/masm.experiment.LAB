@@ -24,3 +24,4 @@
 23. [DO_WHILE_LOOP.ASM](./DO_WHILE_LOOP.ASM)          `MASM的迴圈`
 24. [STRING_lower2Upper.ASM](./STRING_lower2Upper.ASM)`字元陣列(字串)小寫轉大寫`
 25. [SUMMATION_LOOP.ASM](./SUMMATION_LOOP.ASM)        `挑戰 Sigma Σ N1+...+N2 (同SUMMATION.ASM) 用LOOP方式`
+26. [PRINT_INTEGER255.ASM](./PRINT_INTEGER255.ASM)    `挑戰 印出0-255間的整數`
