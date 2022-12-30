@@ -26,3 +26,4 @@
 25. [SUMMATION_LOOP.ASM](./SUMMATION_LOOP.ASM)        `挑戰 Sigma Σ N1+...+N2 (同SUMMATION.ASM) 用LOOP方式`
 26. [PRINT_INTEGER255.ASM](./PRINT_INTEGER255.ASM)    `挑戰 印出0-255間的整數`
 27. [STRING_Upper2lower.ASM](./STRING_Upper2lower.ASM)`字元陣列(字串)大寫轉小寫`
+28. [FIND_DIFF.ASM](./FIND_DIFF.ASM)                  `查找字串差異`
