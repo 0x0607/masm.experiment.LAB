@@ -29,3 +29,4 @@
 28. [FIND_DIFF.ASM](./FIND_DIFF.ASM)                  `查找字串差異`
 29. [FIND_CHAR.ASM](./FIND_CHAR.ASM)                  `查找字元`
 30. [STRING_COPY.ASM](./STRING_COPY.ASM)              `字串的複製`
+31. [STRING_COPY2.ASM](./STRING_COPY2.ASM)            `字串的複製 (使用 MOVS)`
